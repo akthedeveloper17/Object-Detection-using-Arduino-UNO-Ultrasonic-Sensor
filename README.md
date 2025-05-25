@@ -1,3 +1,6 @@
+![5](https://github.com/user-attachments/assets/47ade8a0-46ef-4fbc-b341-5ee04f1502f1)
+![4](https://github.com/user-attachments/assets/a52a3c29-04bf-465e-8a0b-fbd243ee392f)
+![1](https://github.com/user-attachments/assets/6200d89a-1e6c-4936-bbf0-ee021c472eb3)
 # Object-Detection-using-Arduino-UNO-Ultrasonic-Sensor
 In this project, I developed an innovative hardware solution utilizing an Arduino Uno board paired with an ultrasonic sensor to create a real-time object detection system. The primary objective was to visualize the presence of objects in front of the sensor through a dynamic radar graph displayed on a computer screen.
 The system operates by emitting ultrasonic waves and measuring the time it takes for the waves to bounce back after hitting an object. This data is processed by the Arduino, which calculates the distance to the detected object. The radar graph is designed to provide an intuitive visual representation of the detection status: when an object is detected within a specified range, the radar graph highlights the area in red, indicating a "red zone." Conversely, when no objects are present, the graph shifts to a green zone, signaling safety and absence of obstacles.
